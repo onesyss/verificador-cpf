@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+
+fieldset, cadastro { /*Formatação da pagina em geral */
+    font-family: Arial, sans-serif;
+    background-color: #810000; /*Cor de fundo do texto */
+    font: normal 14pt Arial; /*Tamanho da fonte */
+    color:rgb(12, 12, 194); /*Cor da letra */
+
+}
+
+input, caixa {
+    color: #810000;
+    font: 100px;
+}
